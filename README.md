@@ -12,7 +12,7 @@ I am a detail-oriented **Junior Full-Stack Software Engineer** specializing in b
 
 ## 🚀 About Me
 
-- 🏢 **Experience:** 2 years architecting full-cycle software solutions, enterprise management systems, and custom Android applications.
+- 🏢 **Experience:** 3 years architecting full-cycle software solutions, enterprise management systems, and custom Android applications.
 - ⚙️ **Core Passions:** Optimizing database queries, designing scalable system architectures, and automating workflows to build intuitive, user-centric solutions.
 - 💻 **Current Focus:** Leveling up cloud integrations and expanding mobile ecosystem performance.
 
