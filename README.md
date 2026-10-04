@@ -2,7 +2,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-blue?style=flat-square" alt="Role">
-  <img src="https://img.shields.io/badge/Experience-2%20Years-green?style=flat-square" alt="Experience">
+  <img src="https://img.shields.io/badge/Experience-3%20Years-green?style=flat-square" alt="Experience">
   <img src="https://img.shields.io/badge/Focus-Enterprise%20%26%20Mobile-orange?style=flat-square" alt="Focus">
 </p>
 
